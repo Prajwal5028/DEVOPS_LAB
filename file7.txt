@@ -1,2 +1,0 @@
-hello this is devops lab 
-i am learning basic git commands
